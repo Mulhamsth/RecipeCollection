@@ -1,0 +1,22 @@
+﻿@page "/Recipes"
+@inject HttpClient httpClient
+@using Model.Entities
+<h3>Recipes</h3>
+
+@foreach (var item in DisplayRecipes)
+{
+    <p>@item.Id</p>
+    <p>@item.Title</p>
+    <p>@item.Description</p>
+}
+
+@code {
+
+    List<Recipe>? DisplayRecipes = new List<Recipe>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        DisplayRecipes = await httpClient.GetFromJsonAsync<List<Recipe>>("/Recipe");
+    }
+
+}

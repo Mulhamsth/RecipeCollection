@@ -76,7 +76,7 @@ namespace Model.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<int>("DiffecultyLevel")
+                    b.Property<int>("DifficultyLevel")
                         .HasColumnType("integer");
 
                     b.Property<List<string>>("Ingredients")

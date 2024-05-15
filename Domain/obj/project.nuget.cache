@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hyD45XNRhS3Ck8XcpLTmQgH5E9VGAjTIRJW8/6CeesQGNwvIQYCiv8GF7zFH97HTD+RnQIXBUO4TeMseP+gbxQ==",
+  "dgSpecHash": "RilnTZmys11ogykjC7YfxpRKfEvvQvMFbWOsyUUfaylUaFxACxeLah9W8Wzt/USK/q9wrGR1N4pVmHz9iWKl7A==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\School\\WINN\\RecipeCollection\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\projects\\RecipeCollection\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

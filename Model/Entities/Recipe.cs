@@ -11,11 +11,11 @@ public class Recipe
     public List<string> Ingredients { get; set; }
     public List<string> Instructions { get; set; }
     public double CookingTime { get; set; }
-    public  Diffeculty DiffecultyLevel { get; set; }
+    public  Difficulty DifficultyLevel { get; set; }
     public List<Category> Categories { get; set; }
 }
 
-public enum Diffeculty
+public enum Difficulty
 {
     Hard,
     Middle,

@@ -20,7 +20,7 @@ public class RecipeDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseNpgsql(@"Host=localhost;Username=mulham;Password=mulsth12;Database=Recipes");
+        optionsBuilder.UseNpgsql(@"Host=10.0.0.20;Username=mulham;Password=mulsth12;Database=Recipes");
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -28,7 +28,5 @@ public class RecipeDbContext : DbContext
         modelBuilder.Entity<Recipe>()
             .HasMany(x => x.Categories)
             .WithMany(x => x.Recipes);
-
-
     }
 }
