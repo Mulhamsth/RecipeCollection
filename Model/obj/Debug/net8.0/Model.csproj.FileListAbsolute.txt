@@ -1,0 +1,14 @@
+D:\Projects\School\WINN\RecipeCollection\Model\bin\Debug\net8.0\Model.deps.json
+D:\Projects\School\WINN\RecipeCollection\Model\bin\Debug\net8.0\Model.runtimeconfig.json
+D:\Projects\School\WINN\RecipeCollection\Model\bin\Debug\net8.0\Model.dll
+D:\Projects\School\WINN\RecipeCollection\Model\bin\Debug\net8.0\Model.pdb
+D:\Projects\School\WINN\RecipeCollection\Model\obj\Debug\net8.0\Model.csproj.AssemblyReference.cache
+D:\Projects\School\WINN\RecipeCollection\Model\obj\Debug\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\School\WINN\RecipeCollection\Model\obj\Debug\net8.0\Model.AssemblyInfoInputs.cache
+D:\Projects\School\WINN\RecipeCollection\Model\obj\Debug\net8.0\Model.AssemblyInfo.cs
+D:\Projects\School\WINN\RecipeCollection\Model\obj\Debug\net8.0\Model.csproj.CoreCompileInputs.cache
+D:\Projects\School\WINN\RecipeCollection\Model\obj\Debug\net8.0\Model.dll
+D:\Projects\School\WINN\RecipeCollection\Model\obj\Debug\net8.0\refint\Model.dll
+D:\Projects\School\WINN\RecipeCollection\Model\obj\Debug\net8.0\Model.pdb
+D:\Projects\School\WINN\RecipeCollection\Model\obj\Debug\net8.0\Model.genruntimeconfig.cache
+D:\Projects\School\WINN\RecipeCollection\Model\obj\Debug\net8.0\ref\Model.dll
